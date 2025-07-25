@@ -1,6 +1,6 @@
 ---
 title: International Club Event Tool
-date: 2024-07-26
+date: 2025-07-26
 categories: [Python, Streamlit, Web App]
 tags: [google-api, automation, portfolio]
 pin: true # This pins the post to the top of your homepage

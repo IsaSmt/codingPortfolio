@@ -1,6 +1,6 @@
 ---
 title: Coffee Beans App (React Native Web)
-date: 2024-07-29
+date: 2023-04-20
 categories: [React, Expo, Web App]
 tags: [university-project, frontend, typescript]
 pin: true # Heftet dieses Projekt neben dem anderen oben an

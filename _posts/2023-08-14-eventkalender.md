@@ -1,6 +1,6 @@
 ---
 title: Eventkalender für Austauschstudierende
-date: 2024-07-30
+date: 2023-08-14
 categories: [Web App, Google Apps Script]
 tags: [university-project, frontend, backend, google-sheets, event-management]
 pin: true # Heftet dieses Projekt oben an
