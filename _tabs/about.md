@@ -15,4 +15,4 @@ My academic and personal projects have given me hands-on experience with:
 
 I am always eager to learn new technologies and take on challenging problems. My goal is to leverage my skills to create software that is not only functional but also intuitive and impactful.
 
-Feel free to connect with me on [LinkedIn](YOUR_LINKEDIN_URL_HERE) or explore my projects here and on my [GitHub profile](https://github.com/IsaSmt).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isabel-simmet/) or explore my projects here and on my [GitHub profile](https://github.com/IsaSmt).
